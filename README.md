@@ -1,6 +1,8 @@
 # UC7-presencial
 
-repositorio da aula presencial
+Repositório da aula presencial
+
+Merge
 
 Felipe-Branch
 
